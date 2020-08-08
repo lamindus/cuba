@@ -1,8 +1,4 @@
 .header__top{
-<<<<<<< HEAD
-=======
-  background-image: url('../images/back.jpg');
->>>>>>> a13ad62622e8c52f55b0882a1a5c174d47d27ed6
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -68,20 +64,12 @@
   color: #4e5665;
   border-bottom: 4px solid #ecb84c;
 }
-<<<<<<< HEAD
 .mini-container{
-=======
-.reasons__container{
->>>>>>> a13ad62622e8c52f55b0882a1a5c174d47d27ed6
   max-width: 1200px;
   padding: 0 15px;
   margin: 0 auto;
 }
-<<<<<<< HEAD
 .mini-container-content{
-=======
-.reasons__container-content{
->>>>>>> a13ad62622e8c52f55b0882a1a5c174d47d27ed6
   max-width: 970px;
   margin: 0 auto;
 }
@@ -91,20 +79,13 @@
 .section-line{
   border-bottom: 1px solid rgba(208, 212, 216, .5);
 }
-<<<<<<< HEAD
 .title{
-=======
-.reasons__title{
->>>>>>> a13ad62622e8c52f55b0882a1a5c174d47d27ed6
   font-family: Georgia;
   font-size: 32px;
   line-height: 38px;
   text-align: center;
-<<<<<<< HEAD
 }
 .reasons__title{
-=======
->>>>>>> a13ad62622e8c52f55b0882a1a5c174d47d27ed6
   margin-bottom: 22px;
 }
 .reasons__link{
@@ -134,7 +115,6 @@
   color: #909090;
   line-height: 17px;
   font-weight: 700;
-<<<<<<< HEAD
 }
 .info{
   padding: 80px 0 0;
@@ -241,6 +221,4 @@
 }
 .slick-prev{
   left: -20px;
-=======
->>>>>>> a13ad62622e8c52f55b0882a1a5c174d47d27ed6
 }
