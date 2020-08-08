@@ -204,3 +204,21 @@
   max-width: 640px;
   margin: 0 auto;
 }
+.slick-arrow{
+  width: 40px;
+  height: 40px;
+  border: none;
+  background-color: #ecb84c;
+  border-radius: 50%;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 5;
+}
+.slick-next{
+  right: -20px;
+}
+.slick-prev{
+  left: -20px;
+}
